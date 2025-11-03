@@ -1,0 +1,19 @@
+# STM32CubeIDE build files
+Debug/
+Release/
+.build/
+*.launch
+
+# Eclipse/STM32 metadata
+.settings/
+.project
+.cproject
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.swp
+*.tmp
